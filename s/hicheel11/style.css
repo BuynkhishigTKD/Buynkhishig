@@ -1,0 +1,19 @@
+.body {
+  margin: 0;
+}
+.nav {
+  background-color: blue;
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+}
+.nav h2 {
+  background-color: white;
+  color: black;
+}
+.a {
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+}

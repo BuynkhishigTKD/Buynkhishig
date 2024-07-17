@@ -1,0 +1,126 @@
+header {
+  width: 100%;
+  height: 10%;
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+body {
+  width: 100%;
+  height: 100vh;
+}
+main {
+  width: 100%;
+  height: 300vh;
+  background-color: orangered;
+  display: flex;
+}
+.logo {
+  width: 20%;
+  height: 90%;
+  background-color: green;
+  display: flex;
+  gap: 10px;
+}
+.home {
+  width: 20%;
+  height: 80%;
+  background-color: green;
+}
+.profile {
+  width: 20%;
+  height: 80%;
+  background-color: green;
+}
+.menu {
+  width: 20%;
+  height: 80%;
+  background-color: green;
+}
+.post {
+  width: 60%;
+  height: 80%;
+  background-color: orange;
+}
+.contacts {
+  width: 20%;
+  height: 80%;
+  background-color: green;
+}
+.search {
+  width: 40%;
+  height: 80%;
+  background-color: orange;
+}
+.logo1 {
+  width: 20%;
+  height: 80%;
+  background-color: orange;
+}
+.profile1 {
+  width: 60%;
+  height: 5%;
+  display: flex;
+  align-items: center;
+}
+.profile1 img {
+  width: 50px;
+  height: 50px;
+}
+.profile1 p {
+  font-size: 50px;
+}
+.watch {
+  width: 60%;
+  height: 100%;
+}
+.fblogo {
+  width: 100%;
+  height: 100%;
+}
+.search {
+  width: 100%;
+  height: 90%;
+}
+.home {
+  width: 20%;
+  height: 90%;
+}
+.flag {
+  width: 20%;
+  height: 90%;
+}
+.group {
+  width: 20%;
+  height: 90%;
+}
+.gaming {
+  width: 20%;
+  height: 90%;
+}
+.menu {
+  width: 20%;
+  height: 90%;
+}
+.messege {
+  width: 20%;
+  height: 90%;
+}
+.notifications {
+  width: 20%;
+  height: 90%;
+}
+.account {
+  width: 30%;
+  height: 90%;
+}
+.twoboy {
+  width: 40%;
+  height: 90%;
+  background-color: aqua;
+}
+.travis {
+  width: 90%;
+  height: 30%;
+}
