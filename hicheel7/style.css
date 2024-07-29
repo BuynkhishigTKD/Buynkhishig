@@ -164,7 +164,7 @@
   }
   .menu1 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     height: 10%;
   }
@@ -172,7 +172,8 @@
     height: 50px;
   }
   .menu1 p {
-    font-size: 50px;
+    font-size: 30px;
+    margin: 0;
   }
   .menu3 {
     visibility: hidden;
